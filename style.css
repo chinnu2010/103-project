@@ -1,0 +1,20 @@
+body{
+    color: darkgoldenrod;
+    background:white;
+    }
+    
+    .heading{
+        width: 80%;
+        font-size: 22px;
+    }
+    
+    .name_of_persons,#result_persons_name,#result_accuracy{
+        color: darkorange;
+    }
+    
+    #camera{
+        border: 2px dashed black;
+        width: 350px;
+        height: 300px;
+    }
+    
